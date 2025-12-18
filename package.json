@@ -2,7 +2,7 @@
   "name": "nodejs",
   "type": "commonjs",
   "version": "1.0.0",
-  "description": "",
+  "description": "**Internal Path**: `01_Projetos/NodeJS_Studies`",
   "main": "server.js",
   "engines": {
     "node": ">=18"
@@ -14,7 +14,17 @@
     "build": "tsup src --out-dir build",
     "test": "vitest"
   },
-  "keywords": [],
+  "keywords": [
+    "docker",
+    "fastify",
+    "markdown",
+    "node",
+    "postgresql",
+    "tests",
+    "typescript",
+    "vitest",
+    "zod"
+  ],
   "author": "",
   "license": "MIT",
   "dependencies": {
