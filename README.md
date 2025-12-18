@@ -1,4 +1,4 @@
-**Tags**: #Docker #Fastify #Markdown #Node #Postgresql #Tests #TypeScript #Zod #vitest
+**Tags**: #Database #Docker #Fastify #Markdown #Node #Postgresql #Tests #TypeScript #Zod #vitest
 
 #NodeJS_Studies # NodeJS_Studies
 
